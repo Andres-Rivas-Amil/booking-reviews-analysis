@@ -1,0 +1,37 @@
+{
+  "fecha_analisis": "2026-06-10T11:06:12.617497",
+  "dataset": {
+    "total_resenas": 511944,
+    "total_hoteles": 1475,
+    "total_paises": 6,
+    "total_ciudades": 6,
+    "media_puntuacion": 8.396052888597191,
+    "mediana_puntuacion": 8.8,
+    "desviacion_puntuacion": 1.6377779977093927
+  },
+  "top_paises": {
+    "Austria": 8.567157592807105,
+    "España": 8.553838710753729,
+    "Países Bajos": 8.456230445194107
+  },
+  "bottom_paises": {
+    "Francia": 8.423113279463333,
+    "Italia": 8.346677776583162,
+    "Reino Unido": 8.32413018780166
+  },
+  "mejor_hotel": {
+    "nombre": "Ritz Paris",
+    "puntuacion": 9.725
+  },
+  "peor_hotel": {
+    "nombre": "Hotel Liberty",
+    "puntuacion": 5.121538461538461
+  },
+  "distribucion_categorias": {
+    "Excelente": 47.9,
+    "Bueno": 24.7,
+    "Muy Bueno": 17.2,
+    "Regular": 8.1,
+    "Malo": 2.1
+  }
+}
